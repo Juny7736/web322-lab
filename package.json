@@ -1,0 +1,14 @@
+{
+  "name": "web322-github-vercel-lab",
+  "version": "1.0.0",
+  "description": "WEB322 lab - web server displaying name, WEB322 and current GMT, deployed via GitHub and Vercel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Junseo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
